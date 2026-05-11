@@ -1,28 +1,28 @@
 {
-  "generated": "2026-05-11T09:32:13",
+  "generated": "2026-05-11T12:29:51",
   "projects": [
     {
       "id": "bht-sheets",
       "name": "BHT Google Sheets",
-      "scanned": "2026-05-11T09:32:07",
+      "scanned": "2026-05-11T12:29:43",
       "last_commit": "2026-04-13",
       "last_commit_msg": "Initial commit",
       "http_status": 200,
       "http_ok": true,
       "file_mtime": "2026-05-11",
-      "file_size_kb": 98.9
+      "file_size_kb": 100.0
     },
     {
       "id": "bht-copy",
       "name": "BHT Copy v1",
-      "scanned": "2026-05-11T09:32:09",
+      "scanned": "2026-05-11T12:29:45",
       "http_status": 418,
       "http_ok": false
     },
     {
       "id": "flask",
       "name": "Flask + Access",
-      "scanned": "2026-05-11T09:32:11",
+      "scanned": "2026-05-11T12:29:47",
       "port_open": false,
       "file_mtime": "2026-04-05",
       "file_size_kb": 468.0
@@ -30,115 +30,115 @@
     {
       "id": "bht-pages",
       "name": "BHT GitHub Pages",
-      "scanned": "2026-05-11T09:32:11",
+      "scanned": "2026-05-11T12:29:47",
       "http_status": 404,
       "http_ok": false
     },
     {
       "id": "cheder-bht",
       "name": "cheder-bht",
-      "scanned": "2026-05-11T09:32:11",
+      "scanned": "2026-05-11T12:29:48",
       "http_status": 200,
       "http_ok": true
     },
     {
       "id": "chaim-katz",
       "name": "אתר חיים כץ",
-      "scanned": "2026-05-11T09:32:12",
+      "scanned": "2026-05-11T12:29:49",
       "last_commit": "2026-04-25",
       "last_commit_msg": "5000 unique games!"
     },
     {
       "id": "maale-amos",
       "name": "אתר מעלה עמוס",
-      "scanned": "2026-05-11T09:32:12",
+      "scanned": "2026-05-11T12:29:49",
       "last_commit": "2026-05-06",
       "last_commit_msg": "v3.10: עדכוני אתר לפי בקשות עמנואל רקטובסקי"
     },
     {
       "id": "cheder-maale",
       "name": "cheder-maale-amos",
-      "scanned": "2026-05-11T09:32:12"
+      "scanned": "2026-05-11T12:29:49"
     },
     {
       "id": "finance",
       "name": "כספים",
-      "scanned": "2026-05-11T09:32:12",
+      "scanned": "2026-05-11T12:29:49",
       "last_commit": "2026-05-11",
       "last_commit_msg": "sync: bank update 2026-05-11"
     },
     {
       "id": "ai-email",
       "name": "ai-email-agent",
-      "scanned": "2026-05-11T09:32:12",
+      "scanned": "2026-05-11T12:29:49",
       "file_mtime": "2026-05-05",
       "file_size_kb": 1.0
     },
     {
       "id": "docbuilder",
       "name": "DocBuilder Studio",
-      "scanned": "2026-05-11T09:32:12",
+      "scanned": "2026-05-11T12:29:49",
       "port_open": false
     },
     {
       "id": "whatsapp",
       "name": "WhatsApp Bridge",
-      "scanned": "2026-05-11T09:32:12",
+      "scanned": "2026-05-11T12:29:49",
       "port_open": false,
-      "file_mtime": "2026-05-10",
+      "file_mtime": "2026-05-11",
       "file_size_kb": 0.0
     },
     {
       "id": "yemot",
       "name": "קו ימות",
-      "scanned": "2026-05-11T09:32:12",
+      "scanned": "2026-05-11T12:29:49",
       "http_status": 200,
       "http_ok": true
     },
     {
       "id": "intercom",
       "name": "אינטרקום",
-      "scanned": "2026-05-11T09:32:13",
+      "scanned": "2026-05-11T12:29:50",
       "port_open": false
     },
     {
       "id": "voice-lan",
       "name": "סוכן קולי LAN",
-      "scanned": "2026-05-11T09:32:13",
+      "scanned": "2026-05-11T12:29:50",
       "port_open": false
     },
     {
       "id": "video-v8",
       "name": "BHT Video Engine v8",
-      "scanned": "2026-05-11T09:32:13",
+      "scanned": "2026-05-11T12:29:50",
       "file_mtime": "2026-05-06",
       "file_size_kb": 31.6
     },
     {
       "id": "pregnancy-vid",
       "name": "pregnancy-videos-haredi",
-      "scanned": "2026-05-11T09:32:13",
+      "scanned": "2026-05-11T12:29:50",
       "last_commit": "2026-05-07",
       "last_commit_msg": "Initial: pregnancy videos downloader for wife"
     },
     {
       "id": "vimeo-dl",
       "name": "vimeo-downloader",
-      "scanned": "2026-05-11T09:32:13",
-      "last_commit": "2026-05-10",
-      "last_commit_msg": "Aprochim: install Deno + 2-step search/download with client "
+      "scanned": "2026-05-11T12:29:50",
+      "last_commit": "2026-05-11",
+      "last_commit_msg": "Auto-signup for NLI API key"
     },
     {
       "id": "z-sorter",
       "name": "סוכן מיון Z:",
-      "scanned": "2026-05-11T09:32:13"
+      "scanned": "2026-05-11T12:29:50"
     },
     {
       "id": "dashboard",
       "name": "דשבורד פרויקטים",
-      "scanned": "2026-05-11T09:32:13",
+      "scanned": "2026-05-11T12:29:50",
       "last_commit": "2026-05-11",
-      "last_commit_msg": "init: dashboard 20 projects, navy/gold RTL",
+      "last_commit_msg": "add scanner, data.json, live status overlay",
       "http_status": 200,
       "http_ok": true
     }
